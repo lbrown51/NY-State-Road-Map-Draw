@@ -1,0 +1,8 @@
+Author : Lenny Brown
+Lab TA : Theodore Stein
+
+
+This lab has a variable output, how I am I supposed to even put what that would look like. It should, at the very least, inform you when you're wrong.
+Compilation instruction : 
+javac * java 
+	java Project4.java 
