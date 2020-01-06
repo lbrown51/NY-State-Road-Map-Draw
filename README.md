@@ -1,6 +1,6 @@
 NY State Road Map Draw
 
-Contact Info : Lenny Brown || lbrown51@u.rochester.edu
+Contact Info : Lenny
 Class : Project 4
 
 Description:
